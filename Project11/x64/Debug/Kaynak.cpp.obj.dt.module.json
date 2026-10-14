@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Project11\\x64\\Debug\\Kaynak.obj",
+            "outputs": [
+                "Project11\\x64\\Debug\\Kaynak.cpp.obj.dt.module.json",
+                "Project11\\x64\\Debug\\Kaynak.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
