@@ -1,5 +1,0 @@
-﻿  books.cpp
-  Kaynak.cpp
-  Kod Üretiliyor...
-MSVCRTD.lib(exe_main.obj) : error LNK2019: çözümlenmemiş dış sembol main için "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) işlevinde başvuruldu
-C:\Users\shycr\source\repos\Project11\x64\Debug\Project11.exe : fatal error LNK1120: 1 çözümlenmemiş dışlar
